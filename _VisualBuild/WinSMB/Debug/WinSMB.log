@@ -1,0 +1,12 @@
+﻿  stdafx.cpp
+  SMB.C
+  _charset_map.c
+  _win32_keys_map.c
+  _win32_os_hook.c
+  Génération de code en cours...
+  _win32_graph_char.cpp
+  _win32_xlib.cpp
+  _win32_xlib_pbm.cpp
+  WinSMB.cpp
+  Génération de code en cours...
+  WinSMB.vcxproj -> C:\dev\SMB\_VisualBuild\Debug\WinSMB.exe

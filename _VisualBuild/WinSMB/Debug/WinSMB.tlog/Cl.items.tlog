@@ -1,0 +1,9 @@
+C:\dev\SMB\Src\SMB.C;C:\dev\SMB\_VisualBuild\WinSMB\Debug\SMB.obj
+C:\dev\SMB\Src\_charset_map.c;C:\dev\SMB\_VisualBuild\WinSMB\Debug\_charset_map.obj
+C:\dev\SMB\Src\_win32_graph_char.cpp;C:\dev\SMB\_VisualBuild\WinSMB\Debug\_win32_graph_char.obj
+C:\dev\SMB\Src\_win32_keys_map.c;C:\dev\SMB\_VisualBuild\WinSMB\Debug\_win32_keys_map.obj
+C:\dev\SMB\Src\_win32_os_hook.c;C:\dev\SMB\_VisualBuild\WinSMB\Debug\_win32_os_hook.obj
+C:\dev\SMB\Src\_win32_xlib.cpp;C:\dev\SMB\_VisualBuild\WinSMB\Debug\_win32_xlib.obj
+C:\dev\SMB\Src\_win32_xlib_pbm.cpp;C:\dev\SMB\_VisualBuild\WinSMB\Debug\_win32_xlib_pbm.obj
+C:\dev\SMB\_VisualBuild\stdafx.cpp;C:\dev\SMB\_VisualBuild\WinSMB\Debug\stdafx.obj
+C:\dev\SMB\_VisualBuild\WinSMB.cpp;C:\dev\SMB\_VisualBuild\WinSMB\Debug\WinSMB.obj
